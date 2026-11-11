@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文精读阅读器"
+  short_description: "生成逐段对照、详细解读、术语解释与二轮审校记录的论文精读网页"
+  default_prompt: "使用 $paper-deep-reader，为这篇文章生成详细精读 HTML，包含原文对照、术语与图表解释、科研阅读卡片和第二轮审校记录。"

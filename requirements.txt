@@ -1,0 +1,3 @@
+# Optional extraction dependencies; other scripts use the Python standard library.
+pdfplumber
+lxml
